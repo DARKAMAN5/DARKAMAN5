@@ -9,5 +9,5 @@ DARKAMAN5/DARKAMAN5 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  
-#DARKAMAN
+
 [![EVILXBOT LOGO](https://telegra.ph/file/ed069bba1760ecde97dae.jpg)]
