@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
  
 #DARKAMAN
-[https://telegra.ph/file/ed069bba1760ecde97dae.jpg] 
+[![EVILXBOT LOGO](https://telegra.ph/file/ed069bba1760ecde97dae.jpg)]
