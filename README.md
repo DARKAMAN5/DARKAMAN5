@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DARKAMAN5
+- 👋 Hi, I’m DARKAMAN5
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... 
