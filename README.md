@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
  
 
-[![EVILXBOT LOGO](https://telegra.ph/file/ed069bba1760ecde97dae.jpg)]
+[![EVILXBOT LOGO](https://telegra.ph/file/766cf377f04b4ec5ede15.jpg)]
